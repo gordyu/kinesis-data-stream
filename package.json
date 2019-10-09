@@ -1,0 +1,16 @@
+{
+  "name": "kinesis-data-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gordon Yu",
+  "license": "to kill",
+  "dependencies": {
+    "aws-sdk": "^2.331.0",
+    "faker": "^4.1.0",
+    "moment": "^2.22.2"
+  }
+}
