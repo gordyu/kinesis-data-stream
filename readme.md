@@ -1,1 +1,2 @@
-Try reading the package.json.# kinesis-data-stream
+# kinesis-data-stream
+Try reading the package.json.
