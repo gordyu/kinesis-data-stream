@@ -9,7 +9,7 @@
   "author": "Gordon Yu",
   "license": "to kill",
   "dependencies": {
-    "aws-sdk": "^2.331.0",
+    "aws-sdk": "^2.814.0",
     "faker": "^4.1.0",
     "moment": "^2.22.2"
   }
