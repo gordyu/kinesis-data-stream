@@ -11,6 +11,6 @@
   "dependencies": {
     "aws-sdk": "^2.331.0",
     "faker": "^4.1.0",
-    "moment": "^2.22.2"
+    "moment": "^2.29.2"
   }
 }
